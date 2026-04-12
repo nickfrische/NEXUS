@@ -1,0 +1,53 @@
+# Goose Hints for Granola MCP Server
+
+## What This Project Is
+This is an MCP (Model Context Protocol) server that provides AI agents access to Granola.ai meeting data.
+It exposes 7 tools for searching, retrieving, and filtering meetings via the MCP protocol.
+
+## Quick Commands
+- Build: `npm run build`
+- Watch: `npm run watch`
+- Test run: `node index.js`
+
+## Key Architecture Points
+- Uses FastMCP framework for MCP server implementation
+- OAuth 2.0 with WorkOS for authentication (refresh token rotation!)
+- In-memory caching with 5-minute TTL
+- ProseMirror to Markdown conversion for meeting notes
+- ESM modules throughout (use .js extensions in imports)
+
+## When Modifying Code
+1. Always run `npm run build` after TypeScript changes
+2. Test token refresh carefully - rotation means old tokens become invalid
+3. API responses may use 'docs' or 'documents' keys - handle both
+4. MCP tools must return strings (not objects)
+
+## File Purposes
+- server.ts: MCP tools and server startup
+- tokenManager.ts: OAuth handling (sensitive - be careful)
+- apiClient.ts: REST API calls to Granola
+- prosemirrorConverter.ts: Content format conversion
+- types.ts: TypeScript interfaces
+
+## Common Patterns
+```typescript
+// Adding a new tool
+server.addTool({
+  name: 'tool_name',
+  description: 'What it does',
+  parameters: z.object({
+    param: z.string().describe('Description')
+  }),
+  execute: async ({ param }) => {
+    await ensureDataLoaded();
+    // ... implementation
+    return 'string result';
+  }
+});
+```
+
+## External Dependencies
+- Granola app must be installed and logged in (for token extraction)
+- WorkOS OAuth (client_01JG3HBXEG0QA83Z7XRPGVPFMB)
+- Granola API at https://api.granola.ai
+

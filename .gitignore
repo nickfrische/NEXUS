@@ -14,3 +14,4 @@ logs/*.log
 
 # Node
 node_modules/
+vendor/granola-mcp/node_modules/

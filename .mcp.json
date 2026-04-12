@@ -1,86 +1,70 @@
 {
   "mcpServers": {
+
     "granola": {
-      "comment": "SENTINEL — Meeting transcripts, action items, summaries. Auto-pulled after every call.",
-      "type": "stdio",
-      "command": "npx",
-      "args": ["-y", "@granola-ai/mcp-server"]
+      "comment": "SENTINEL — Meeting transcripts, summaries, action items. Reads from local Granola app. Requires Granola installed at ~/Library/Application Support/Granola/. Docs: https://github.com/EoinFalconer/granola-mcp-server",
+      "command": "node",
+      "args": ["vendor/granola-mcp/dist/server.js"]
     },
+
     "google-calendar": {
-      "comment": "SENTINEL — Read upcoming meetings, trigger pre-meeting briefs 1hr before each call.",
-      "type": "stdio",
+      "comment": "SENTINEL — Read upcoming meetings, trigger pre-meeting briefs. Setup: Create GCP project → enable Calendar API → download OAuth JSON. Docs: https://github.com/nspilman/google-calendar-mcp",
       "command": "npx",
-      "args": ["-y", "@googleapis/mcp-server-google-calendar"],
+      "args": ["-y", "@cocal/google-calendar-mcp"],
       "env": {
-        "GOOGLE_CLIENT_ID": "${GOOGLE_CLIENT_ID}",
-        "GOOGLE_CLIENT_SECRET": "${GOOGLE_CLIENT_SECRET}",
-        "GOOGLE_REFRESH_TOKEN": "${GOOGLE_REFRESH_TOKEN}"
+        "GOOGLE_OAUTH_CREDENTIALS": "${GOOGLE_OAUTH_CREDENTIALS_PATH}"
       }
     },
+
     "gmail": {
-      "comment": "QUILL — Read inbox, search threads, inform draft replies. Read-only, no send.",
-      "type": "stdio",
+      "comment": "QUILL — Read inbox, search threads, surface replies for drafting. Read-only, no send. Setup: run 'npx @gongrzhe/server-gmail-autoauth-mcp auth'. Docs: https://github.com/GongRzhe/Gmail-MCP-Server",
       "command": "npx",
-      "args": ["-y", "@googleapis/mcp-server-gmail"],
-      "env": {
-        "GOOGLE_CLIENT_ID": "${GOOGLE_CLIENT_ID}",
-        "GOOGLE_CLIENT_SECRET": "${GOOGLE_CLIENT_SECRET}",
-        "GOOGLE_REFRESH_TOKEN": "${GOOGLE_REFRESH_TOKEN}"
-      }
+      "args": ["-y", "@gongrzhe/server-gmail-autoauth-mcp"]
     },
-    "gws": {
-      "comment": "QUILL / NEXUS — Official Google Workspace CLI with built-in MCP. Full Drive, Sheets, Docs access.",
-      "type": "stdio",
-      "command": "gws",
-      "args": ["mcp"],
-      "env": {
-        "GWS_ACCOUNT": "${GWS_ACCOUNT}"
-      }
-    },
+
     "notion": {
-      "comment": "NEXUS — Read/write pages and databases. Client notes, project docs, internal content.",
-      "type": "stdio",
+      "comment": "NEXUS — Read/write Notion pages and databases. Client notes, project docs, internal content. Setup: https://www.notion.so/profile/integrations → create integration → copy token. Docs: https://github.com/makenotion/notion-mcp-server",
       "command": "npx",
       "args": ["-y", "@notionhq/notion-mcp-server"],
       "env": {
-        "NOTION_API_KEY": "${NOTION_API_KEY}"
+        "NOTION_TOKEN": "${NOTION_TOKEN}"
       }
     },
+
     "github": {
-      "comment": "NEXUS — Manage this repo, track client project files, create issues for blocked tasks.",
-      "type": "stdio",
+      "comment": "NEXUS — Manage this repo, create issues for blocked tasks, track client projects. Setup: https://github.com/settings/tokens → repo scope. Docs: https://github.com/modelcontextprotocol/servers/tree/main/src/github",
       "command": "npx",
       "args": ["-y", "@modelcontextprotocol/server-github"],
       "env": {
         "GITHUB_PERSONAL_ACCESS_TOKEN": "${GITHUB_TOKEN}"
       }
     },
+
     "firecrawl": {
-      "comment": "INTEL / SCOUT — Convert any URL to clean markdown. Scrapes company sites, press pages, pricing. $16/mo.",
-      "type": "stdio",
+      "comment": "INTEL / SCOUT — Convert any URL to clean markdown. Company sites, press pages, pricing. $16/mo. Get key: https://firecrawl.dev/app/api-keys. Docs: https://docs.firecrawl.dev/mcp-server",
       "command": "npx",
       "args": ["-y", "firecrawl-mcp"],
       "env": {
         "FIRECRAWL_API_KEY": "${FIRECRAWL_API_KEY}"
       }
     },
+
     "apify": {
-      "comment": "INTEL / SCOUT — 6,000+ scrapers: LinkedIn profiles, Google Search, news sites, job boards, Google Maps.",
-      "type": "stdio",
+      "comment": "INTEL / SCOUT — 6,000+ scrapers: LinkedIn profiles, Google Search, news, job boards, Google Maps. Get token: https://console.apify.com → Settings → Integrations. Docs: https://docs.apify.com/platform/integrations/mcp",
       "command": "npx",
-      "args": ["-y", "apify-mcp-server"],
+      "args": ["-y", "@apify/actors-mcp-server"],
       "env": {
         "APIFY_TOKEN": "${APIFY_TOKEN}"
       }
     },
+
     "syncgtm": {
-      "comment": "SCOUT — Waterfall enrichment across 50+ data providers. 87% email match rate. Replaces Apollo.",
-      "type": "stdio",
-      "command": "npx",
-      "args": ["-y", "@syncgtm/mcp-server"],
-      "env": {
-        "SYNCGTM_API_KEY": "${SYNCGTM_API_KEY}"
+      "comment": "SCOUT — Waterfall enrichment across 50+ data providers. 87% email match rate. Replaces Apollo. Signup: https://app.syncgtm.com/signup → Settings → API key. Remote HTTP server.",
+      "url": "https://api.syncgtm.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${SYNCGTM_API_KEY}"
       }
     }
+
   }
 }

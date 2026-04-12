@@ -1,0 +1,59 @@
+{
+  "name": "granola-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for Granola.ai meeting intelligence - search, retrieve, and filter meetings via Claude Desktop and other MCP clients",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "granola-mcp-server": "./index.js"
+  },
+  "files": [
+    "dist",
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "prepare": "npm run build",
+    "dev": "npm run build && node index.js",
+    "typecheck": "tsc --noEmit",
+    "clean": "rm -rf dist"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "granola",
+    "granola-ai",
+    "meetings",
+    "ai",
+    "transcription",
+    "claude",
+    "claude-desktop",
+    "meeting-notes",
+    "ai-assistant"
+  ],
+  "author": "Eoin Falconer",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EoinFalconer/granola-mcp-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EoinFalconer/granola-mcp-server/issues"
+  },
+  "homepage": "https://github.com/EoinFalconer/granola-mcp-server#readme",
+  "dependencies": {
+    "fastmcp": "^3.24.0",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
