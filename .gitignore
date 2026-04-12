@@ -1,0 +1,16 @@
+# Secrets
+.env
+*.env.local
+
+# Exported VPS data (keep the tar.gz out of git)
+nexus-export.tar.gz
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs (committed selectively)
+logs/*.log
+
+# Node
+node_modules/

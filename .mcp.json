@@ -1,0 +1,86 @@
+{
+  "mcpServers": {
+    "granola": {
+      "comment": "SENTINEL — Meeting transcripts, action items, summaries. Auto-pulled after every call.",
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "@granola-ai/mcp-server"]
+    },
+    "google-calendar": {
+      "comment": "SENTINEL — Read upcoming meetings, trigger pre-meeting briefs 1hr before each call.",
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "@googleapis/mcp-server-google-calendar"],
+      "env": {
+        "GOOGLE_CLIENT_ID": "${GOOGLE_CLIENT_ID}",
+        "GOOGLE_CLIENT_SECRET": "${GOOGLE_CLIENT_SECRET}",
+        "GOOGLE_REFRESH_TOKEN": "${GOOGLE_REFRESH_TOKEN}"
+      }
+    },
+    "gmail": {
+      "comment": "QUILL — Read inbox, search threads, inform draft replies. Read-only, no send.",
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "@googleapis/mcp-server-gmail"],
+      "env": {
+        "GOOGLE_CLIENT_ID": "${GOOGLE_CLIENT_ID}",
+        "GOOGLE_CLIENT_SECRET": "${GOOGLE_CLIENT_SECRET}",
+        "GOOGLE_REFRESH_TOKEN": "${GOOGLE_REFRESH_TOKEN}"
+      }
+    },
+    "gws": {
+      "comment": "QUILL / NEXUS — Official Google Workspace CLI with built-in MCP. Full Drive, Sheets, Docs access.",
+      "type": "stdio",
+      "command": "gws",
+      "args": ["mcp"],
+      "env": {
+        "GWS_ACCOUNT": "${GWS_ACCOUNT}"
+      }
+    },
+    "notion": {
+      "comment": "NEXUS — Read/write pages and databases. Client notes, project docs, internal content.",
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "@notionhq/notion-mcp-server"],
+      "env": {
+        "NOTION_API_KEY": "${NOTION_API_KEY}"
+      }
+    },
+    "github": {
+      "comment": "NEXUS — Manage this repo, track client project files, create issues for blocked tasks.",
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-github"],
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "${GITHUB_TOKEN}"
+      }
+    },
+    "firecrawl": {
+      "comment": "INTEL / SCOUT — Convert any URL to clean markdown. Scrapes company sites, press pages, pricing. $16/mo.",
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "firecrawl-mcp"],
+      "env": {
+        "FIRECRAWL_API_KEY": "${FIRECRAWL_API_KEY}"
+      }
+    },
+    "apify": {
+      "comment": "INTEL / SCOUT — 6,000+ scrapers: LinkedIn profiles, Google Search, news sites, job boards, Google Maps.",
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "apify-mcp-server"],
+      "env": {
+        "APIFY_TOKEN": "${APIFY_TOKEN}"
+      }
+    },
+    "syncgtm": {
+      "comment": "SCOUT — Waterfall enrichment across 50+ data providers. 87% email match rate. Replaces Apollo.",
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "@syncgtm/mcp-server"],
+      "env": {
+        "SYNCGTM_API_KEY": "${SYNCGTM_API_KEY}"
+      }
+    }
+  }
+}
