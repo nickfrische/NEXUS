@@ -1,7 +1,9 @@
 # Contact Dossier — Luke Phenicie
 
-**Status:** New → Researched  
-**Last Updated:** 2026-03-04  
+**Status:** Verbal Close — Pending Contract
+**Last Updated:** 2026-04-13
+**Last Touched:** 2026-04-13
+**Next Action:** Receive scope info from Luke (due EOD 2026-04-13 or 2026-04-14), then confirm contract
 **Researched By:** INTEL
 
 ---
@@ -95,9 +97,64 @@ This is not a cold lead — there is an existing relationship and a defined need
 
 ---
 
+## Meeting Notes — 2026-04-13
+
+**Meeting:** BPN <> Luke discovery/demo call
+**Attendees:** Nick Frische, Luke Phenicie, Blake Marcotte, Philip Hess
+
+### What Luke Showed Us
+Kissel Capital has a Microsoft Power Automate-based deal flow system:
+- Auto creates deal folders (265+ deals logged) and HubSpot records when a new deal email comes in
+- NDA review: prompts loaded into Copilot, outputs a risk review document
+- SIM review: auto-fills deal review sheet + market study from the SIM doc
+- Investment thesis: currently 70% drafted by India team (Trevista, ~$3,500/month for 50hr block), then Luke cleans it up
+- Checklist-based due diligence processes — not automatable, human judgment required
+- 90 Software for EOS (quarterly planning, L10 meetings, accountability chart)
+- Playbook folder system across all processes: Sourcing, Deal Acquisition, Value Creation, Marketing, Admin
+
+### Pain Points Identified
+- Investment thesis takes too long — India team does the heavy lift but it's expensive and disconnected
+- No centralized dashboard to trigger individual automations — everything daisy-chained in Power Automate
+- Copilot has confidentiality issues with SIMs and NDAs (Luke: "Copilot sucks, it's trash")
+- Indication of interest (IOI) template still filled manually — 25-30 min each
+- Management team background research not automated — currently a manual due diligence step
+- Investment banker contact info not auto-synced into HubSpot from emails
+
+### What BPN Proposed (Phil built live during call)
+- Investment thesis automation: pull from SIM, deal review sheet, market study → auto-fill thesis template to 70-80% completion
+- Dashboard concept: centralized interface where Luke's team can trigger any individual automation without them being chained together
+
+### Verbal Close
+**Luke said:** "Go ahead and assume we're going to move forward on those terms."
+
+**Agreed scope:** Investment thesis automation
+**Agreed price:** $3,000 fixed (discounted from $4-6K because it's the first project) + small monthly retainer
+
+**Luke's next step:** Talking to his team at their quarterly EOS meeting tomorrow (2026-04-14). Will send contract/scope info end of day today or sometime tomorrow.
+
+### Future Pipeline (post-thesis)
+1. Automation dashboard — centralized control panel for all automations
+2. IOI template automation (25-30 min → 5 min)
+3. Investment banker email scraping → HubSpot sync
+4. Management team background research automation (from SIM)
+5. Texas portfolio company — "ripe for automation"
+6. Canada portfolio company (Edmonton, MSP, recently modernized) — also ripe
+
+### Key Relationship Notes
+- Phil built a live dashboard mockup during the call — Luke's reaction: "Oh hell yeah"
+- Faith connection made: Phil and Nick mentioned being men of faith, Luke connected with it ("I hope that brings a level of morality into it")
+- Luke offered to sign NDA on BPN's work — concerned about confidentiality with competitors
+- Luke does NOT want BPN working with direct PE firm competitors without telling him first
+- Luke's current India team (Trevista): $3,500/month for 50 hours — this is the budget BPN is competing against and eventually replacing
+- Luke also uses: HubSpot, 90 Software (EOS), Microsoft Power Automate, Grok (with concerns)
+- Michael Terrell = Luke's principal/partner at Kissel — will be in the loop on decisions
+
+---
+
 ## Status History
 
 | Date | Status | Notes |
 |------|--------|-------|
 | Prior | In Conversation | Nick has had multiple prior conversations with Luke |
 | 2026-03-04 | Researched | Full dossier built; active opportunity confirmed |
+| 2026-04-13 | Verbal Close | Discovery call. Luke verbally agreed to thesis automation at $3K. Sending info end of day or tomorrow. Quarterly EOS meeting 2026-04-14. |

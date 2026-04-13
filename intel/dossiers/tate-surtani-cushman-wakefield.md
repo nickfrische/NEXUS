@@ -64,3 +64,15 @@ In Conversation — Active BD Prospect
 - **$1,000 scoping day fee agreed to**
 - Tate's role confirmed: champion/connector — NOT the buyer. Michael Madden holds the BD expense account.
 - Next step: Show up April 1 prepared. Michael is sending mockup screenshots + Excel of his vision beforehand.
+
+## Update — April 9, 2026
+
+**Virtual Build Review Call**
+- Tate was on the call with Michael, Nick, Blake, and Philip
+- Platform demoed live — Tate was engaged, contributed ideas
+- Tate is using **Granola** for call recording/transcripts (downloaded on his phone since C&W IT blocks it on his laptop)
+- Suggested idea on the call: a way to flag companies another C&W broker is pursuing (Engage-style awareness) — already in the design
+- Tate confirmed he wants to see individual view + team view — doesn't need to filter by Jonathan separately
+- At end of call: complimented BrotherLink app, offered to tell his FIJI brothers to message Nick about an internship with BPN
+- His role remains: champion/connector — Michael Madden still the buyer/decision maker
+- **Next meeting:** Wednesday April 15/16, 10-11am. Tate's task before then: data cleanup in the platform.

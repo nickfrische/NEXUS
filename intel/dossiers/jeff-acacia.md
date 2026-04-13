@@ -1,8 +1,8 @@
-# Contact Dossier: Jeff (Acacia Alumni)
+# Contact Dossier: Jeff Powers (Acacia Alumni — Purdue)
 
 **Status:** SUPERSTAR
 **Roles:** Formal BrotherLink Advisor | Acacia Pilot Chapter Champion
-**Last Updated:** March 12, 2026
+**Last Updated:** April 9, 2026
 **Dossier Created By:** SENTINEL
 
 ---
@@ -12,7 +12,7 @@
 | Field | Value |
 |---|---|
 | First Name | Jeff |
-| Last Name | Unknown — do not fabricate |
+| Last Name | Powers |
 | Fraternity | Acacia (IU chapter alumnus) |
 | Location | Near Geist Reservoir, eastern Indianapolis / Lawrence Township area ("9 iron from the water") |
 | Faith | Strong Christian — champions John Wooden's Leadership Pyramid of Success (which he describes as entirely grounded in Christian values) |
@@ -114,27 +114,73 @@ Jeff gave Nick six high-signal strategic insights drawn from 30 years at IBM:
 
 ---
 
+## MEETING LOG
+
+### Call — April 9, 2026
+- **Format:** Phone call
+- **Duration:** ~30 min
+- **Context:** BrotherLink update + relationship check-in
+
+**BrotherLink status Nick shared:**
+- App is live in the App Store
+- Initial testing done with pledge class + a few others
+- BrotherLink committee created inside FIJI house
+- Tonight (April 9 = Thursday dinner, 65-75% attendance) = mass undergrad onboarding push
+- Plan: 90 undergrads on platform by end of next week (April 18)
+- After 90 undergrads hit → launch graduate brother implementation plan
+  - Pledge class champion model: identify one champion per class year, have them blast their group chat
+  - Follow with blast email to all grad brothers
+  - Newsletter, LinkedIn channel, house feed as ongoing trickle channels
+- Chapter feed posting twice/week on house news (qualifications, events, etc.)
+- Access code for test chapter: **abc2026**
+
+**Jeff's feedback (high signal — preserve):**
+- "You now need a one-pager / stakeholder summary — why this platform, why now, benefits per stakeholder community." Every key contact needs to be conversant in the value prop.
+- Called out the ghost town problem directly: Acacia has LinkedIn groups, Facebook, Instagram, a website, Slack — none get real engagement. Acknowledged BrotherLink has the same risk.
+- Identified the Clayton example unprompted: elite Acacia alum manually broadcast "anyone in Phoenix for the game?" — said that could be automated. Perfect BrotherLink moment.
+- Validated the core insight: "Chapter loses 80% of alumni engagement within two years of leaving the walls" — that's the hook.
+- Pressed on adoption plan: forced adoption in the house is good, but how do you get alumni and outside stakeholders off legacy platforms?
+- Interested in the **consulting side** as much as the app — "where's your fast start how-to guide? Your consulting expertise is valuable."
+- Suggested potential premium/freemium model — referenced podcast community monetization as a parallel.
+
+**Acacia interest / timing:**
+- Verbally interested but timing is a concern — end of semester, currently focused on April 17 event
+- April 17: **Dinner with Men of Acacia + Leadership/Professional Development Workshop**, Purdue, West Lafayette. 14 alumni committed to a Friday night. Two honored speakers (40s-50s alumni). Speaker from Purdue's leadership development initiative. Then 2-hour cocktail/alumni mixer on second floor ("fast dating with alumni"). **Jeff's flagship initiative.**
+- Said in an ideal world he'd introduce BrotherLink at that event → track new alumni relationships inside the app
+- Nick confirmed BPN can have it ready — but Jeff said he needs a team to actually manage it and doesn't trust his guys alone to do it
+- More realistic timeline: **August — come back hot at start of fall semester**
+- Said "I have a fair amount of power and authority to get stuff done" — once timing is right, he can move fast
+- Connected to other fraternities at Purdue through "various different means" — positioned as potential expansion gateway
+
+**Nick conflict:** Nick has IU Innovates pitch competition on April 17 — cannot attend Jeff's event.
+
+**Contact preference confirmed:** Text only.
+
+**Faith:** When Nick shared he's a "huge Jesus guy" and started Bible study at FIJI, Jeff said "I'm a fan." Genuine shared ground.
+
+---
+
 ## NEXT ACTIONS
 
 | Action | Owner | Deadline | Status |
 |---|---|---|---|
-| FIJI house onboarding | Nick | **March 23, 2026** *(HARD DEADLINE)* | 🔴 Pending |
-| Schedule Acacia demo for Jeff | Nick | After March 23 | ⏳ Waiting on FIJI |
-| Nick sends Jeff → Dave Frische contact info (Lilly/Plainfield) | Nick | ASAP | 🔴 Pending |
-| Jeff reaches out to Dave Frische via LinkedIn | Jeff | TBD | ⏳ Waiting on Nick |
-| Jeff CCs Nick on Acacia board communications | Jeff | Ongoing | ⏳ Ongoing |
-| Nick speaks at Purdue LPBI leadership workshop | Nick | April 2026 | 🟡 Planning |
+| Text Jeff — check in, ask if he reviewed two-pager + demo video | Nick | April 15–16, 2026 | 🔴 Pending |
+| Build stakeholder one-pager: "Why BrotherLink vs Slack/LinkedIn/Facebook" | Nick/QUILL | Before next Jeff touch | 🔴 Pending |
+| Follow up after April 17 event — ask how it went, re-raise BrotherLink for August | Nick | April 18–20, 2026 | ⏳ Queued |
+| Discuss August Acacia launch plan once FIJI pilot metrics are in | Nick | May–June 2026 | ⏳ Future |
 | Formalize Jeff as official BrotherLink Advisor (title, role, scope) | Nick | TBD | 🔴 Pending |
+| Jeff CCs Nick on Acacia board communications | Jeff | Ongoing | ⏳ Ongoing |
+| Nick sends Jeff → Dave Frische contact info (Lilly/Plainfield) | Nick | ASAP | 🔴 Pending |
 
 ---
 
 ## RELATIONSHIP HEALTH
 
 - **Status:** SUPERSTAR
-- **Warmth:** Extremely high — Jeff is proactive, values-aligned, and deeply invested
-- **Last Touch:** March 12, 2026 (first call)
-- **Next Touch Target:** Immediately after March 23 FIJI onboarding — Acacia demo scheduling
-- **Risk:** None current. Jeff is an initiator. Keep momentum by hitting the March 23 deadline.
+- **Warmth:** Extremely high — Jeff is values-aligned, proactive, and already an informal advisor
+- **Last Touch:** April 9, 2026 (call)
+- **Next Touch Target:** April 15–16 (text check-in on two-pager/video review)
+- **Risk:** Low. Jeff is engaged. Main risk is end-of-semester busyness + no internal team to manage adoption. August timing is realistic — don't push before he's ready.
 
 ---
 

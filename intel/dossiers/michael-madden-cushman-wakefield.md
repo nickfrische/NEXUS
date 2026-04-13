@@ -191,18 +191,79 @@ Track Michael's personal deal economics separately:
 - **Mar 25, 2026** — First contact. Discovery call with Tate Surtani, Lily Somers, Nick, and Blake. Immediately clicked. In-person scoping day locked in for April 1.
 - **Apr 1, 2026 (Session 1)** — In-person discovery day, Chicago. Full data model mapped. All core features captured. Filip (another broker) joined late. Email confirmed. Meeting went exceptionally well.
 - **Apr 1, 2026 (Session 2)** — Deep dive on pipeline stages, comps tracking, personal deals ledger, dashboard, data import strategy, ZoomInfo/Engage integrations, A/B testing. Follow-up corrected to **April 9** (not April 8).
+- **Apr 9, 2026** — Virtual build review. Platform demoed live. Platform is live with 1,200 leases loaded. Data issues resolved. New feature requests captured. Strategic vision discussed. See meeting log below.
+
+---
+
+## MEETING LOG — April 9, 2026
+
+**Format:** Virtual (Zoom). Attendees: Nick, Blake, Philip, Michael, Tate.
+
+### Platform Status at This Meeting
+- Leases, contacts, companies, comps, opportunities (Kanban) all live in the platform
+- Blake had missed the leases Excel file Michael sent — only pulled from the Airtable building database. Michael resent it on the call. Blake confirmed he'll import.
+- ~30 opportunities need to be manually re-classified in the Kanban (not much — Michael/Tate to drag and drop)
+- Comps page: complete and imported with filter system
+- Data cleanup tool ("data Tinder"): built and shown — swipe to keep/archive/delete contacts with missing info. Michael loved it. Optional enhancement: auto-keep if all fields filled.
+
+### New Feature Requests (April 9)
+
+| Feature | Priority | Notes |
+|---|---|---|
+| Team toggle dashboards | High | 4 views: Michael / Tate / Jonathan / Team. Tag data per team member. "Team" column already exists in export data. |
+| Inline editing | High | Double-click a field to edit via dropdown, without opening full edit modal |
+| Sticky horizontal scroll bar | High | Bottom nav so users can scroll right without using trackpad |
+| History / Audit trail | High | Two-part: (1) Auto-log: who changed what, when, what it changed from. (2) Manual notes field per company/contact/lease. Company level aggregates all contact + lease history. |
+| Populating agent | High | Takes emails, call transcripts, lease abstractions → parses and auto-populates CRM fields. UX: "suggest adding this contact/lease — approve or deny." Granola transcript integration is the primary use case. |
+| Prospecting agent | High | On company classification change (→ client) or manual trigger: research similar companies. Deliver as morning email digest OR on-demand in-platform. Once ZoomInfo connected: auto-pull contact emails from similar companies. |
+| To-do list agent | Medium | Once activity list is starred/pinned, agent works through it |
+| Call scoring agent | Medium | Granola transcripts → custom criteria → 1-5 score. BPN already uses this internally (Nick averages 3/5, Phil also using). Offer to build custom criteria for Michael/Tate. |
+| Building nugget + email generation | Medium | Click "generate email" from a building page → personalized outreach draft. Mass send blocked by C&W IT domain restrictions (DNS authorization needed). Blake researching workaround. |
+| Old comps auto-roll | Low | When lease expiration date passes, auto-move to "old comps" tab |
+| Auto-keep in data cleanup | Low | If all fields are filled on a contact, auto-keep without manual confirmation |
+
+### ZoomInfo API
+- Looked into it live on call. Requires admin portal login for API key.
+- Michael has the highest ZoomInfo subscription on the team — may have admin access.
+- Blake to send Michael a video tutorial on how to pull the API key from the admin portal. Michael sends key → Blake connects.
+
+### Team Member Confirmed: Jonathan
+- Jonathan (last name referenced as "Metzel" in passing): BPN-built app was shown to him; he's in San Francisco currently. Michael described him as a "mega beast." He will have his own toggle view in the dashboard.
+- Full team: Michael / Tate / Jonathan / (potentially Filip)
+
+### Payment Flag (Post-Call)
+- Nick noted after the call: **"The contract says they owe us 7.5 grand today."** — $7,500 payment due April 9, 2026. Needs to be chased if not received.
+
+### Strategic Vision Discussed
+- Michael's goal: show this to other broker teams in the C&W Chicago office. Has 4 brokers he could show now. One specific unnamed person he wants to show once data is fully populated.
+- Michael's framing: "If I put this in front of any office, they'd be like — this is light years more sophisticated and exciting than anything I've ever used."
+- BPN's framing on the call: Validate with Michael's team → expand to other teams → potentially sell to all of Cushman & Wakefield as licensed/proprietary software. Michael endorsed the vision but wants conviction from using it first.
+- Michael's approach: "Let me get the data populated. Once this looks like a real database, I want to jump in front of it." Patient but clearly excited.
+- Tate also mentioned showing it to Charlie and Luke (other C&W team) for feedback.
+
+### BrotherLink Mention (End of Call)
+- Michael said unprompted: "That app you guys built was super cool. You guys should sell that to every chapter."
+- Nick mentioned he talked to IFC president that day and they're getting all younger kids on at 6pm.
+- Tate offered to tell brothers to message Nick — "best internship you could get."
+
+### Next Meeting
+- **Wednesday, April 15 or 16, 2026 — 10-11am**
+- Goal: both sides complete their work beforehand. Blake: leases import + feature upgrades. Michael/Tate: data cleanup.
+
+---
 
 ## Next Actions
-- [ ] Build scope + proposal before April 9 (CRITICAL)
-- [ ] Include Filip in build team conversation
-- [ ] Plan Airtable CSV import (~1,200 contacts) — start here before ACT
-- [ ] Plan ACT database import (data only — notes cannot be exported)
-- [ ] Plan Filip's ACT database import
-- [ ] Investigate ZoomInfo AI Copilot API access — may need plan upgrade
-- [ ] Design Engage integration as one-directional (read conflict flags only)
-- [ ] Do NOT spec CoStar API integration
-- [ ] Confirm exact time of April 9 meeting for SENTINEL pre-brief cron
-- [ ] **Birthday flag:** Michael's birthday is weekend of April 12–13 — brief QUILL for warm birthday touch after Apr 9 meeting
+
+| Action | Owner | Deadline | Status |
+|---|---|---|---|
+| Import leases Excel that Michael re-sent on April 9 | Blake | Before April 15 meeting | 🔴 Pending |
+| Build feature upgrades: team toggles, inline editing, sticky scroll, history/audit trail | Blake | Before April 15 meeting | 🔴 Pending |
+| Michael/Tate clean up contact data in the platform | Michael/Tate | Before April 15 meeting | ⏳ Their side |
+| Send Michael video tutorial on ZoomInfo admin portal / API key | Blake | ASAP | 🔴 Pending |
+| Chase $7,500 payment (contract due April 9) | Nick | April 10–11, 2026 | 🔴 URGENT |
+| Research C&W domain DNS workaround for mass email send | Blake | Before April 15 meeting | 🔴 Pending |
+| QUILL: Send Michael a warm birthday message (birthday weekend April 12–13) | Nick | April 12, 2026 | 🔴 Pending |
+| Wednesday meeting April 15 or 16 at 10-11am | Nick + Blake | April 15/16, 2026 | 📅 Confirmed |
 
 ## Intel Notes
 - **Last updated:** April 1, 2026 (Session 2 additions)

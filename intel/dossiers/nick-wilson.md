@@ -1,7 +1,9 @@
 # Dr. Nick Wilson — Contact Dossier
 
 ## Status
-Active Opportunity — Proposal Stage
+Active Opportunity — Proposal Sent (pending)
+**Last Touched:** 2026-04-07
+**Next Action:** Send scope/proposal to Dr. Nick — committed to Friday April 11. Also waiting on his videographer pricing.
 
 ## The Basics
 - Company: Restructured Chiropractic / Alignment Training / Vitality Metabolics
@@ -46,8 +48,59 @@ Active Opportunity — Proposal Stage
 - [SENTINEL] Follow-up reminder — Friday March 6, 10am EST: Has Adryan documented workflows?
 - [SENTINEL] Follow-up reminder — Monday March 9, 10am EST: Schedule Adryan follow-up meeting
 
+## Agency Corrections (confirmed April 7 — March 4 notes had these flipped)
+- **PBL** = organic social media content agency. $3,500/month. Provides 25-video monthly content plan: trend research, scripts, captions, shot descriptions. Dr. Nick reviews, edits, shoots. Videographer does back-end edits. Problem: PBL keeps pitching gimmicky content (bedroom videos, viral trends) that don't fit brand identity. Dr. Nick has said this repeatedly and they don't get the message.
+- **Sozo** = paid ads + GoHighLevel setup + graphics + A/B testing. Brand new relationship — Dr. Nick wants to give them a chance before replacing. Also supposed to handle SEO but isn't doing much.
+
+---
+
+## Meeting Notes — April 7, 2026
+
+**Date/Time:** April 7, 2026
+**Format:** Video call (Zoom/Granola)
+**Attendees:** Nick Frische, Dr. Nick Wilson
+
+### What Was Shown
+Nick demoed a live video clip of Dr. Wilson's practice intro video (from his website), run through a Claude-based video clipping script in real-time. Laggy (ran from coding terminal) but the concept landed. Dr. Nick could see where it was going.
+
+### Scope Confirmed — Three Phases
+
+**Phase 1 — First Engagement (Social + SEO + Newsletter):**
+- **Social media content system:** Replace what PBL provides — automated trend research, brand-voice-aligned scripts, shot lists for Dr. Nick to film. Goal: him to stand in front of camera and know exactly what to say, for content that drives brick & mortar traffic (not book sales). Integrate with videographer (he's getting pricing on edits). Automate posting if possible.
+- **SEO + blogs:** Automate blog creation for website. Sozo is supposed to handle SEO but isn't. Blogs are the primary SEO lever.
+- **Newsletter / email automation:** Pull content from book, drive to practice + functional health + supplements. Consistent cadence idea: "Functional Friday." Automate delivery to full patient email list. Currently emails are random and open rates are low because it's always a promo, not value.
+
+**Phase 2 — Paid Ads Replacement (after Phase 1):**
+- Replace Sozo with AI-powered A/B testing, graphics, and paid ad automation
+- Timing: table for a few months while Sozo relationship plays out
+
+**Phase 3 — Operations Automation:**
+- API integration: EHR system + GoHighLevel + texting platform all talking to each other
+- Automate patient text management (thousands of texts/week — appointment changes, running late, etc.)
+- Free up staff from keyboard work so patient-facing people can actually be with patients
+
+### Strategic Opportunity — Chiro Profession Play
+Dr. Nick is a thought leader and influencer in the chiropractic space. He floated this explicitly:
+> "If we are able to solve this for my own brick and mortar, I am called a thought leader in the chiropractic space. I've got a wide net where I could toss this to the chiropractic profession."
+
+He proposed a venture/channel relationship — BPN solves it for him, then they partner to sell it to other chiro practices. He has a 400+ doctor network. This is a major distribution play if Phase 1 delivers.
+
+### Key Numbers
+- PBL: $3,500/month (25 videos)
+- Text messages: thousands per week handled manually by staff
+- Practice capacity: 80% full, room for ~20% growth
+- Digital product (Alignment Training): $150K invested, underutilized
+- Video content asset: 1TB of professional footage sitting unused + just shot 25 new videos
+
+### Agreed Next Steps
+- Nick: Send scope + pricing proposal by Friday April 11
+- Dr. Nick: Already sent PBL's scripts/captions document to Nick during the call
+- Dr. Nick: Get videographer pricing for back-end video edits
+
+---
+
 ## Intel Notes
-- Last updated: 2026-03-04
+- Last updated: 2026-04-07
 - Andy and Ned Morrison connection — close family friends (Holiday Farms, Bible study, vacations). Strong warm relationship.
 - Faith angle is genuine and real — integrates Christ into his work. Nick has authentic common ground here.
 - He's a real operator with multiple revenue streams. Not a tire-kicker.

@@ -34,6 +34,56 @@
 
 ---
 
+## BROTHERLINK CHAPTER OUTREACH — APRIL 7 MEETINGS
+
+- [ ] [urgent] TEXT Gavin Hume (IFC President) — warm intro via Ryan Pechous
+  tags: #brotherlink #gavin-hume #urgent #ifc
+  agent: NEXUS
+  dossier: gavin-hume-ifc-president
+  notes: Ryan Pechous texted Nick his number on the April 7 call. Ryan said he'd give Gavin a heads up. Gavin independently had a similar idea about pan-IFC alumni connectivity. He's the most connected person on IU campus. TEXT HIM FIRST. Suggested opener in his dossier. This is potentially an IFC-wide distribution play.
+
+- [ ] [todo] Follow up with Ryan Pechous (Phi Delt) — ask how his CAB call went April 7
+  tags: #brotherlink #ryan-pechous #phi-delt
+  agent: NEXUS
+  dossier: ryan-pechous-phi-delt
+  notes: Ryan showed BrotherLink to his Chapter Advisory Board at 3:30-4pm on April 7. They've been begging for alumni connectivity for years. Follow up by April 10-11 — ask what they said, whether they want to meet.
+
+- [ ] [todo] Follow up with Luke (Beta) — check if he talked to exec + alumni chairs
+  tags: #brotherlink #luke-beta #beta-theta-pi
+  agent: NEXUS
+  dossier: luke-wall-beta
+  notes: Luke committed to talking to exec team, alumni chairs, and chapter advisor. Nick asked to be in a group chat with the alumni chairs. Follow up April 14-17. Use Dusty May reconnect story as the proof point if needed.
+
+- [ ] [todo] Text Nick Hesch (Sigma Nu) — check in, did alumni chair react to the app?
+  tags: #brotherlink #nick-hesch #sigma-nu
+  agent: NEXUS
+  dossier: nick-hesch-sigma-nu
+  notes: Nick Hesch planned to show the alumni chair the app immediately after the April 7 call. He wants to move fast before semester ends. Reconnect mid-week (April 13-14). Ask what the alumni chair said. Next step: schedule a demo visit to the house before end of semester.
+
+---
+
+## JEFF POWERS — ACACIA / BROTHERLINK (ACTIVE)
+
+- [ ] [waiting-nick] TEXT Jeff Powers — check in, ask if he reviewed the two-pager + demo video
+  tags: #brotherlink #jeff-powers #urgent
+  agent: NEXUS
+  dossier: jeff-acacia
+  notes: Jeff said text is the only way. Check in early-mid week. Ask what he thought of the two-pager and video Nick sent him April 9. Keep it short and warm. Deadline: April 15–16.
+
+- [ ] [todo] QUILL: draft stakeholder one-pager "Why BrotherLink vs Slack/LinkedIn/Facebook"
+  tags: #brotherlink #jeff-powers #quill
+  agent: QUILL
+  dossier: jeff-acacia
+  notes: Jeff asked for this explicitly. Needs to explain: why NOW, what's broken with existing platforms (ghost towns), benefits per stakeholder group (undergrads: jobs/connections; grads: nostalgia + talent pipeline; chapter: donations + visibility). This becomes Nick's universal leave-behind for all fraternity conversations.
+
+- [ ] [todo] Follow up with Jeff after April 17 Acacia event — ask how it went, re-raise BrotherLink for August
+  tags: #brotherlink #jeff-powers
+  agent: NEXUS
+  dossier: jeff-acacia
+  notes: Jeff's big event = April 17 (Dinner with Men of Acacia + LPBI Workshop, 14 alumni). Nick has IU Innovates pitch that day — cannot attend. Text Jeff April 18–20. Ask how it went. Soft reopen on August BrotherLink launch for Acacia.
+
+---
+
 ## BROTHERLINK SPRINT (from March 2026 — confirm current status)
 
 - [ ] [todo] Confirm status of IU FIJI pitch with Jack Anderson
@@ -64,6 +114,147 @@
   tags: #brotherlink #intel
   agent: INTEL
   notes: BrotherLink grad committee. Ronak recommended building a dossier on him.
+
+---
+
+## IU INNOVATES PITCH COMPETITION — FINALS (URGENT)
+
+- [ ] [waiting-nick] CONFIRM YOUR SPOT — message Parker Busick on Slack by WEDNESDAY 4/15 5PM
+  tags: #iuinnovates #urgent #deadline
+  agent: NEXUS
+  notes: Less than 50% of applicants made finals. Must confirm or spot given away. Parker Busick on IU Slack.
+
+- [ ] [waiting-nick] Decide which product to pitch (BrotherLink? AI team? BPN?)
+  tags: #iuinnovates #urgent
+  agent: NEXUS
+  notes: Need to know before NEXUS can help build the deck. Also need to know which stage you're in (Explore/Build/Test/Customer) — determines prize pool and framing.
+
+- [ ] [todo] Build 5-minute pitch deck
+  tags: #iuinnovates #deck
+  agent: NEXUS
+  notes: Strict 5-min cutoff. Recommended structure: Hook → Problem → Validation → Solution → Traction/Action → Market (optional) → Team (optional) → Next Steps (optional). Friday 4/17 12:30-4:30pm.
+
+- [ ] [waiting-nick] Attend Thursday feedback session (optional but high value)
+  tags: #iuinnovates
+  notes: Thursday 4/16 12:30-2pm at Von Lee — live feedback on pitch. Recommend going.
+
+---
+
+## DR. NICK WILSON — RESTRUCTURED CHIROPRACTIC (ACTIVE — PROPOSAL DUE)
+
+- [ ] [waiting-nick] Did you send the scope/proposal to Dr. Nick? Committed to Friday April 11.
+  tags: #wilson #urgent
+  agent: NEXUS
+  dossier: nick-wilson
+  notes: Nick verbally committed to sending scope + pricing by Friday April 11. Confirm if sent. If not, draft immediately — scope is Phase 1: social media content system + SEO/blogs + newsletter automation.
+
+- [ ] [todo] QUILL: Draft Phase 1 scope + pricing proposal for Dr. Nick Wilson
+  tags: #wilson #quill #proposal
+  agent: QUILL
+  dossier: nick-wilson
+  notes: Scope = (1) Replace PBL scripts/captions with AI system — trend research, brand-voice scripts, shot lists, posting automation. (2) SEO/blog automation. (3) Newsletter/email on consistent cadence (Functional Friday idea). Pricing per AI team product model: ~$3K upfront + $1-2K/month retainer. Use contract-and-proposal-writer skill. Reference: PBL's scripts/captions doc Dr. Nick sent to Nick's email during the April 7 call.
+
+- [ ] [waiting-nick] Has Dr. Nick's videographer gotten back with edit pricing?
+  tags: #wilson
+  agent: NEXUS
+  dossier: nick-wilson
+  notes: Dr. Nick said his videographer would quote him for back-end video edits. This affects Phase 1 scope (whether BPN handles edits or videographer does). Follow up if no word by April 14.
+
+- [ ] [todo] STRATEGIC FLAG: If Phase 1 delivers, Dr. Nick wants to partner to sell to 400+ chiro network
+  tags: #wilson #strategic
+  agent: NEXUS
+  dossier: nick-wilson
+  notes: Dr. Nick is a thought leader/influencer in chiropractic space. Explicitly proposed a venture/channel relationship. Keep this in mind — Phase 1 is an audition for a major distribution play.
+
+---
+
+## HIGH ALPHA — MIKE FITZGERALD (IN CONVERSATION)
+
+- [ ] [waiting-nick] What happened on the Apr 8 call with Mike? Surface outcome so NEXUS can queue next steps.
+  tags: #high-alpha #mike-fitzgerald #urgent
+  agent: NEXUS
+  dossier: mike-fitzgerald-high-alpha
+  notes: 30-min call happened Apr 8 at 2:30pm. Nick prepped with Claude beforehand. Need to know: did it go well? What did Mike say? Is there a next step or follow-up needed?
+
+- [ ] [todo] Follow up with Mike Fitzgerald if no response or next step has been set
+  tags: #high-alpha #mike-fitzgerald #quill
+  agent: QUILL
+  dossier: mike-fitzgerald-high-alpha
+  notes: Depends on call outcome above. If Mike expressed interest, draft a follow-up that proposes a specific next engagement (paid diligence on one portfolio company). Frame BPN as the AI technical layer — not business strategy.
+
+---
+
+## CUSHMAN & WAKEFIELD CRM — MICHAEL MADDEN (ACTIVE PROJECT)
+
+- [ ] [urgent] CHASE $7,500 PAYMENT — contract says due April 9
+  tags: #cw #madden #payment #urgent
+  agent: NEXUS
+  dossier: michael-madden-cushman-wakefield
+  notes: Nick flagged after the April 9 call: "The contract says they owe us 7.5 grand today." Confirm if payment received. If not, Nick needs to follow up with Michael directly.
+
+- [ ] [todo] QUILL: Send Michael birthday message (birthday weekend April 12–13)
+  tags: #cw #madden #quill #relationship
+  agent: QUILL
+  dossier: michael-madden-cushman-wakefield
+  notes: Keep it short and warm. Not a sales touch — a genuine one. Send April 12.
+
+- [ ] [todo] Blake: Import leases Excel file Michael re-sent on April 9 call
+  tags: #cw #build
+  agent: NEXUS (Blake)
+  dossier: michael-madden-cushman-wakefield
+  notes: Blake missed this file in the original import. Michael resent it on the call. This is the file with SF, term length, lease specifics — missing from the building database import.
+
+- [ ] [todo] Blake: Feature upgrades before April 15/16 meeting
+  tags: #cw #build
+  agent: NEXUS (Blake)
+  dossier: michael-madden-cushman-wakefield
+  notes: (1) Team toggle dashboards: Michael / Tate / Jonathan / Team views — tag by team member column. (2) Inline editing: double-click field to edit via dropdown. (3) Sticky horizontal scroll bar at bottom. (4) History/audit trail: auto-log (who changed what + when) + manual notes field. Company level aggregates all contact + lease history.
+
+- [ ] [todo] Blake: Send Michael video tutorial on ZoomInfo admin portal — request API key
+  tags: #cw #zoominfo #build
+  agent: NEXUS (Blake)
+  dossier: michael-madden-cushman-wakefield
+  notes: Michael has highest ZoomInfo subscription. May have admin access. Blake to send tutorial on how to pull API key from admin portal. Once received, Blake connects ZoomInfo to the platform.
+
+- [ ] [todo] Blake: Research C&W domain DNS workaround for mass email send from cushwake.com
+  tags: #cw #build
+  agent: NEXUS (Blake)
+  dossier: michael-madden-cushman-wakefield
+  notes: Mass email send from C&W email domain requires C&W IT to add DNS authorization records. Blake flagged this on the call as something to research. Sending from a different email is not ideal for Michael/Tate.
+
+- [ ] [waiting-nick] C&W Wednesday meeting — April 15/16 at 10-11am
+  tags: #cw #meeting
+  agent: NEXUS
+  dossier: michael-madden-cushman-wakefield
+  notes: Both sides completing work before this call. Blake: leases import + feature upgrades. Michael/Tate: data cleanup. Goal: go page-by-page and nail down individual features.
+
+---
+
+## KISSEL CAPITAL — LUKE PHENICIE (ACTIVE — VERBAL CLOSE)
+
+- [ ] [waiting-nick] APPROVE + SEND: follow-up email to Luke Phenicie
+  tags: #kissel #urgent #quill
+  agent: QUILL
+  dossier: luke-phenicie-kissel-capital
+  notes: Draft at drafts/emails/luke-phenicie-post-meeting-followup.md. Send TODAY before he sends his scope info. Short and warm, confirms $3K thesis automation, no attachment needed.
+
+- [ ] [waiting-nick] Receive scope info from Luke (EOD 2026-04-13 or 2026-04-14)
+  tags: #kissel #urgent
+  agent: NEXUS
+  dossier: luke-phenicie-kissel-capital
+  notes: Luke said he'd send over whatever BPN needs to kick off the contract. He's at quarterly EOS meeting 2026-04-14. Watch for his email.
+
+- [ ] [todo] Draft contract/SOW for Kissel thesis automation
+  tags: #kissel #contract
+  agent: QUILL
+  dossier: luke-phenicie-kissel-capital
+  notes: Scope = investment thesis automation. $3,000 fixed + small monthly retainer. Scope boundaries: thesis auto-fill to 70-80%, NOT financial modeling, NOT copy-paste from model outputs (that's manual). Use contract-and-proposal-writer skill.
+
+- [ ] [todo] INTEL: research Kissel Capital portfolio companies
+  tags: #kissel #intel
+  agent: INTEL
+  dossier: luke-phenicie-kissel-capital
+  notes: Identify current portfolio companies. Flag the Texas company and Canada (Edmonton) company mentioned on call. These are next automation targets after thesis.
 
 ---
 
