@@ -34,6 +34,67 @@
 
 ---
 
+## ELECT EXPRESS — JASON (PROPOSAL REQUESTED — Apr 14)
+
+- [ ] [urgent] Get Jason's email address — can't send proposal without it
+  tags: #elect-express #jason #urgent
+  agent: NEXUS
+  dossier: jason-elect-express
+  notes: Jason asked Nick to email the proposal but didn't give his email. Either text/call through Ned's intro or ask Ned to facilitate. Do this before anything else.
+
+- [ ] [todo] QUILL: Draft $6,000 fixed bid proposal for Jason — Elect Express
+  tags: #elect-express #jason #quill #proposal
+  agent: QUILL
+  dossier: jason-elect-express
+  notes: Scope = (1) Website revamp — modern design, online booking (estimate + troubleshoot), connected to HouseCall Pro. (2) Beside Me AI phone agent → HouseCall Pro integration via Zapier. Booking flows directly into HouseCall. Emergency/live person → call forward to Jason's cell. Fallback = text booking link. (3) Prompt optimization for Beside Me — natural conversation flow, no repetition, live agent escalation. Fixed bid $6K. Keep language simple — Jason is not technical, he wants outcomes. Use contract-and-proposal-writer skill.
+
+- [ ] [todo] Verify Beside Me → HouseCall Pro integration path before sending proposal
+  tags: #elect-express #technical
+  agent: NEXUS (Blake/Phil)
+  dossier: jason-elect-express
+  notes: Jason said the integration broke when he reinstalled the app. It used to work. Check if Beside Me (formerly M1) has a native HouseCall Pro integration or if Zapier is the bridge. Need to confirm this is buildable before committing to it in the proposal.
+
+- [ ] [done] Ned = Edward "Ned" Morrison — one of Nick's best friends, Andy Morrison's brother. Dossier created: ned-morrison.md
+
+---
+
+## HAGEMAN GROUP — ALEX DICKE (HOT INBOUND — Apr 13)
+
+- [ ] [waiting-nick] APPROVE + SEND: reply to EJ intro email, set up discovery call with Alex
+  tags: #hageman #inbound #urgent #quill
+  agent: QUILL
+  dossier: alex-dicke-hageman-group
+  notes: EJ Williams intro'd Alex Dicke (Director, Hageman Group) to Nick. They need a platform to auto-ingest monthly Excel files, clean/unify the data, and display it interactively with AI Insights. Perfect BPN fit (DLSI + EPIC BI combo). Draft is below — reply-all to EJ's email thread.
+
+- [ ] [todo] INTEL: Research Hageman Group before discovery call
+  tags: #hageman #intel
+  agent: INTEL
+  dossier: alex-dicke-hageman-group
+  notes: LinkedIn: linkedin.com/company/hagemangroup/ — find: what industry, size, location, what kind of data they work with, Alex Dicke's background. Understanding their data = better discovery call.
+
+---
+
+## RYAN KITCHELL FOLLOW-UPS — Apr 13 Call
+
+- [ ] [todo] SCOUT: Research ISMA (Indiana State Medical Association) — who runs it, how to approach
+  tags: #healthcare #isma #scout #distribution
+  agent: SCOUT
+  dossier: ryan-kitchell
+  notes: Ryan Kitchell's top recommendation for reaching private practice docs in Indiana. ISMA lobbies for private practice doctors at the statehouse, collects dues, and actively looks for value to bring back to members. They maintain a full list of Indiana private practice doctors. Find: who leads ISMA, their contact info, whether they have a tech/innovation program, and whether other healthcare AI companies have already approached them. This could be BPN's distribution channel into the whole Indiana private practice market.
+
+- [ ] [todo] Nick reaches out to Jake Rester — FIJI alum, doctor, healthcare connections
+  tags: #healthcare #jake-rester #brotherlink
+  agent: NEXUS
+  dossier: ryan-kitchell
+  notes: Ryan Kitchell's recommendation. Jake is a FIJI alum, becoming a doctor, has "a networking bone in his body" unlike most docs. Ryan has talked to him about FIJI stuff. Jake may have built a list of FIJI doctors or know connections in the private practice world. Double purpose: BPN healthcare intro + BrotherLink doctor alumni database. Nick should reach out casually through FIJI network angle.
+
+- [ ] [waiting-nick] Text Charlie Lake (rush chair) — rush quality conversation per Ryan's request
+  tags: #fiji #rush #urgent
+  agent: NEXUS
+  notes: Charlie Lake's number: 424-316-7105. He's one of the three FIJI rush chairs (Luke A., Charlie Lake, Vince Darman). Current pledge class is reportedly weak (no IM teams, poor grades, partying/drugs). Ryan asked Nick to impart wisdom. URGENT — next rush weekend is this weekend (April 18-ish). Ryan is hosting summer rush himself. "You can weather one bad class. Two in a row and we start packing bags."
+
+---
+
 ## BROTHERLINK CHAPTER OUTREACH — APRIL 7 MEETINGS
 
 - [ ] [urgent] TEXT Gavin Hume (IFC President) — warm intro via Ryan Pechous

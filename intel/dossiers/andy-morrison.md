@@ -11,8 +11,9 @@
 - **LinkedIn:** Unknown
 
 ## Connection
-- **How Nick knows them:** Unknown — listed as Good Connection in BPN batch. Possible connection via Indiana entrepreneurship community or shared events.
+- **How Nick knows them:** Andy's brother is **Ned Morrison** — one of Nick's best friends and an active BPN referrer. Andy is likely known through Ned.
 - **Shared background:** Indiana entrepreneur. zWORKS member (Zionsville entrepreneurial coworking center).
+- **Family:** Brother = Ned Morrison (Edward Morrison) → see `ned-morrison.md`
 
 ## About Them
 Andy Morrison and his cousin/business partner Elliott Smith opened four Take 5 Oil Change franchise locations in Central Indiana starting early 2020. Member of zWORKS, an entrepreneurial coworking center in Zionsville. Background suggests a serial franchise/small business operator mentality — focused on local market growth and operational systems.
