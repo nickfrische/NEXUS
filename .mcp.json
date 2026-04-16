@@ -4,22 +4,26 @@
     "granola": {
       "comment": "SENTINEL — Meeting transcripts, summaries, action items. Reads from local Granola app. Requires Granola installed at ~/Library/Application Support/Granola/. Docs: https://github.com/EoinFalconer/granola-mcp-server",
       "command": "node",
-      "args": ["vendor/granola-mcp/dist/server.js"]
+      "args": ["/Users/nickfrische/Documents/Coding/NEXUS/NEXUS/vendor/granola-mcp/dist/server.js"]
     },
 
     "google-calendar": {
-      "comment": "SENTINEL — Read upcoming meetings, trigger pre-meeting briefs. Setup: Create GCP project → enable Calendar API → download OAuth JSON. Docs: https://github.com/nspilman/google-calendar-mcp",
+      "comment": "SENTINEL — Read upcoming meetings, trigger pre-meeting briefs. Tokens at ~/.config/google-calendar-mcp/tokens.json. Docs: https://github.com/nspady/google-calendar-mcp",
       "command": "npx",
       "args": ["-y", "@cocal/google-calendar-mcp"],
       "env": {
-        "GOOGLE_OAUTH_CREDENTIALS": "${GOOGLE_OAUTH_CREDENTIALS_PATH}"
+        "GOOGLE_OAUTH_CREDENTIALS": "/Users/nickfrische/.config/google-drive-mcp/gcp-oauth.keys.json"
       }
     },
 
     "gmail": {
-      "comment": "QUILL — Read inbox, search threads, surface replies for drafting. Read-only, no send. Setup: run 'npx @gongrzhe/server-gmail-autoauth-mcp auth'. Docs: https://github.com/GongRzhe/Gmail-MCP-Server",
+      "comment": "QUILL — Read inbox, search threads, surface replies for drafting. Tokens at ~/.gmail-mcp/credentials.json. Docs: https://github.com/GongRzhe/Gmail-MCP-Server",
       "command": "npx",
-      "args": ["-y", "@gongrzhe/server-gmail-autoauth-mcp"]
+      "args": ["-y", "@gongrzhe/server-gmail-autoauth-mcp"],
+      "env": {
+        "GMAIL_OAUTH_PATH": "/Users/nickfrische/.gmail-mcp/gcp-oauth.keys.json",
+        "GMAIL_CREDENTIALS_PATH": "/Users/nickfrische/.gmail-mcp/credentials.json"
+      }
     },
 
     "notion": {
@@ -63,6 +67,15 @@
       "url": "https://api.syncgtm.com/mcp",
       "headers": {
         "Authorization": "Bearer ${SYNCGTM_API_KEY}"
+      }
+    },
+
+    "gdrive": {
+      "comment": "NEXUS — Drive, Docs, Sheets, Slides. BPN client folder, BD pipeline sheet, proposals. Tokens at ~/.config/google-drive-mcp/tokens.json",
+      "command": "npx",
+      "args": ["-y", "@piotr-agier/google-drive-mcp"],
+      "env": {
+        "GOOGLE_DRIVE_OAUTH_CREDENTIALS": "/Users/nickfrische/.config/google-drive-mcp/gcp-oauth.keys.json"
       }
     }
 
