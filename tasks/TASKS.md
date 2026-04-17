@@ -34,6 +34,48 @@
 
 ---
 
+## IU VENTURES AI WORKSHOP — POST-SESSION FOLLOW-UPS (Apr 16)
+
+- [ ] [urgent] QUILL: Draft post-workshop follow-up to Jon Barada (jon) — due TONIGHT
+  tags: #iuventures #jon-barada #urgent #quill
+  agent: QUILL
+  dossier: jon-barada
+  notes: Reference the contact dashboard moment specifically — "you said this was the solution you've been talking about for years." Warm but brief. Mention second session. Ask about Venture Summit May 21-22 and whether there's any role for BPN. This is the highest-value follow-up from today.
+
+- [ ] [urgent] QUILL: Draft post-workshop follow-up to Tony Armstrong — due tomorrow Apr 17
+  tags: #iuventures #tony-armstrong #urgent #quill
+  agent: QUILL
+  dossier: tony-armstrong
+  notes: Reference the PE firm angle — he mentioned they just started a new engagement. Mirror that energy. Brief and forward-looking. Ask about IU Ventures Fellows Program as a future touchpoint.
+
+- [ ] [urgent] QUILL: Draft post-workshop follow-up to Olivia Schmitt-Metz — due tomorrow Apr 17
+  tags: #iuventures #olivia-schmitt-metz #urgent #quill
+  agent: QUILL
+  dossier: olivia-schmitt-metz
+  notes: Reference the live dashboard build — she was most impacted by this. Ask if she wants help connecting Airtable to her Claude workspace so she can query angel network data. This is the natural next step for her.
+
+- [ ] [urgent] Send invoice to Mike at IU Ventures
+  tags: #iuventures #payment #urgent
+  agent: NEXUS
+  notes: Tony explicitly said "send us an invoice, I'll send Mike in like a country" (garbled but clear intent). Mike handles finance/W2/check info. Nick needs to get BPN's payment info to Mike and send invoice. Do NOT let this slip.
+
+- [ ] [todo] Schedule second AI Workshop session with IU Ventures team
+  tags: #iuventures #secondsession
+  agent: NEXUS
+  notes: All three (Jon, Tony, Olivia) explicitly said they want a second session. Jon said "biannually or annually" to stay up to date. Second session should be more hands-on, less setup, more building — now that foundation is laid. Jon wants to build out the Granola → contact context pipeline. Olivia wants to upload her 2,100-person angel network spreadsheet. IU IT constraints need to be resolved before next session.
+
+- [ ] [todo] Resolve IU IT compliance path for Claude Code
+  tags: #iuventures #technical
+  agent: NEXUS (Blake)
+  notes: IU blocked admin downloads — couldn't install Node.js with standard user. May have enterprise Microsoft agreement (Tony's "Coke vs Pepsi" analogy). Options: (1) IU IT grants admin for specific tools, (2) BPN uses Claude Desktop only (no Claude Code), (3) IU has a co-pilot deal that replicates some of what Claude Code does. Blake should check if Claude Desktop + local file system is sufficient for the use cases they need. This blocks full capability for second session.
+
+- [ ] [todo] STRATEGIC: Develop IU Angel Network AI Tool concept
+  tags: #iuventures #strategic #product
+  dossier: jon-barada
+  notes: Jon described a vision unprompted: when Olivia sends due diligence to angel network members, they each get an AI-powered tool to chat with the DD report, understand cap tables, check size, industry trends, ask follow-up questions. Jon also wants a searchable contact database for all 2,500+ network members. This is a real BPN product opportunity. Evaluate scope and whether to propose it as a project.
+
+---
+
 ## ELECT EXPRESS — JASON (PROPOSAL REQUESTED — Apr 14)
 
 - [ ] [urgent] Get Jason's email address — can't send proposal without it
@@ -92,6 +134,16 @@
   tags: #fiji #rush #urgent
   agent: NEXUS
   notes: Charlie Lake's number: 424-316-7105. He's one of the three FIJI rush chairs (Luke A., Charlie Lake, Vince Darman). Current pledge class is reportedly weak (no IM teams, poor grades, partying/drugs). Ryan asked Nick to impart wisdom. URGENT — next rush weekend is this weekend (April 18-ish). Ryan is hosting summer rush himself. "You can weather one bad class. Two in a row and we start packing bags."
+
+---
+
+## PHI PSI — AARON (APR 9 CALL)
+
+- [ ] [waiting-nick] Did Aaron text you the Phi Psi president's number? If yes → reach out to president re: BrotherLink
+  tags: #brotherlink #phi-psi #urgent
+  agent: NEXUS
+  dossier: aaron-phi-psi
+  notes: Aaron committed to (1) passing BrotherLink info to the president and (2) texting Nick the president's number. Nick should have received it by now. If yes, reach out to president — warm angle is Aaron's referral. If no, Nick may need to ping Aaron.
 
 ---
 

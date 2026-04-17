@@ -16,7 +16,7 @@
 April 16, 2026
 
 ## Next Action
-Send a personal follow-up within 24 hours. Reference something specific from the day. Ask about the May 21-22 Venture Summit and whether BPN can play any role -- even a small one in the ecosystem.
+Send a personal follow-up referencing the contact dashboard moment specifically — "the thing we built in the last 30 seconds that blew everyone's mind." Ask about the May 21-22 Venture Summit and whether BPN can play any role. Separately: schedule second session.
 
 ---
 
@@ -97,4 +97,4 @@ Jon organized and invited BPN to run the AI Workshop. He is the warm champion. H
 
 | Date | Type | Notes |
 |------|------|-------|
-| April 16, 2026 | AI Workshop (full day) | Jon organized this. BPN-led AI 101 at The Mill, Room 108. |
+| April 16, 2026 | AI Workshop (full day) | Jon organized this. BPN-led AI 101 at The Mill, Room 108. Key moments: (1) Jon lit up when Nick built a live contact dashboard from scratch in ~30 seconds — he said "this is the solution we've been talking about for months, for years." He wants to query all IU network contacts by sector, geography, stage. (2) Jon explicitly proposed reimagining the Founders/Funders Network platform as a richer, "tinder-style" product — and said BPN could potentially build it. (3) He connected Granola to the IU Ventures team in the session. (4) He wants a second session. (5) He asked about whether BPN could do an educational seminar for the IU Angel Network members. (6) **BrotherLink moment:** An email from "Nick Barada" appeared on Olivia's screen during the session — Jon noticed it and pointed it out. BrotherLink is on their radar. (7) He is thinking about how to give angel network members an AI-powered tool to interface with deal due diligence — he described this vision at length unprompted. IT restrictions at IU were a constraint throughout — can't install Claude Code with standard user permissions, may be blocked by enterprise Microsoft agreement.

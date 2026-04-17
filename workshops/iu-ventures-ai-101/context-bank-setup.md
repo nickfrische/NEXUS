@@ -14,13 +14,15 @@ Read what it comes back with. Correct anything wrong. Add anything it missed.
 
 ---
 
-## Step 2 -- Tell Claude what you are building
+## Step 2 -- Let Claude interview you
 
-Now tell Claude:
+Before you ask Claude to build anything, let it get to know you. Tell Claude:
 
-> "I want you to help me create a context bank and a folder structure to hold everything about me and my work. This is going to be the foundation for all the systems I build to make myself more efficient. Build it in a way that is going to keep growing and adding context as we go."
+> "Interview me about how I actually work. Ask me about my day-to-day functions, the tasks I do most often, the tools I use, and the people I communicate with regularly. Ask me one question at a time. Keep going until you feel like you have a complete picture."
 
-Then let Claude interview you. Answer the questions in as much detail as you can. The more you give it here, the better everything downstream will be.
+Answer in as much detail as you can. Once Claude feels like it has enough, tell it:
+
+> "Now use everything you just learned to help me create a context bank and a folder structure built around how I actually work. This is the foundation for all the systems I build to make myself more efficient. Build it in a way that keeps growing and adding context as we go."
 
 ---
 
@@ -79,6 +81,12 @@ Review each file as it is created. If something sounds generic or off, push Clau
 ## Step 7 -- Connect Claude to your tools
 
 Once your context bank is built, the next step is connecting Claude to the tools you already live in. These connections are called **MCP connectors** -- they are what let Claude read live data from your actual tools instead of copies you paste in. There are currently 278 verified connectors in Anthropic's directory.
+
+Before you go to Settings, ask Claude which connectors make sense for you:
+
+> "Based on everything you now know about my role and how I work, which connectors should I set up and in what order? Tell me what each one will actually do for my specific workflow."
+
+Claude will give you a personalized priority list based on the interview. Then go to **Claude Settings > Connectors** and set up the ones it recommends.
 
 **One important setup note:** The Microsoft 365 connector requires a one-time setup by your Microsoft Entra ID Global Administrator. That means someone in IU IT needs to approve and enable it for your accounts before you can use it. Plan for that conversation.
 

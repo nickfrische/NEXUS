@@ -15,7 +15,7 @@
 April 16, 2026
 
 ## Next Action
-Follow up within 48 hours. Specifically reference the diligence demo. Ask if she would be open to a deeper conversation about what a custom AI diligence tool could look like for IU Angel Network.
+Follow up within 48 hours. Reference the live dashboard build — she was visibly impressed. Ask if she wants help connecting Airtable to her Claude workspace so she can query angel network deal flow by sector/stage. That is the next natural step for her.
 
 ---
 
@@ -100,4 +100,4 @@ Met through Jon Barada's invitation to the IU Ventures AI Workshop. She is IU-af
 
 | Date | Type | Notes |
 |------|------|-------|
-| April 16, 2026 | AI Workshop (full day) | BPN-led AI 101 at The Mill, Room 108. Olivia attending with Jon and Tony. |
+| April 16, 2026 | AI Workshop (full day) | BPN-led AI 101 at The Mill, Room 108. Key observations: Olivia ran into IT admin restrictions throughout — needed admin password to download Node.js and VS Code. She eventually got VS Code installed. She used Claude Desktop (not Code). Her IU computer is Windows. She had trouble with single sign-on. She was the one using Jon's Granola live in the session. She was most impacted by the live contact dashboard build — she asked how to recreate it and said "if I can do that right now, that would be the most transformational thing." She is thinking about event-based contact folders (e.g., Founders Summit 2026 with all registrants). She has 2,100 people in her angel network spreadsheet and wants to upload and query it. Privacy concern about IU alumni data being stored in non-university system — but she landed on "this is no different than having a spreadsheet on my OneDrive." Wants second session. Her IU login uses initials format (oschmitt).

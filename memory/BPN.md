@@ -27,12 +27,11 @@
 
 ### BROTHERLINK (Nick's primary bet — long-term scale)
 - All-in-one fraternity networking platform: graduate relations, chapter engagement, alumni connectivity
-- First customer target: IU FIJI chapter
-- Proposal submitted. Evaluation committee: Jack Anderson (joa@iu.edu) — undergrad-led
-- Ronak Patel (rdpatel1016@gmail.com) — former IU FIJI president, NYC founder, BrotherLink ally
-- Confirmed pricing: $3-3.5K/month once usage is there
+- Live at IU FIJI Zeta as anchor/proof-of-concept. Expanding to other IU chapters.
+- **Pricing:** $500/month standard per chapter. FIJI anchor deal is $3,500/month (includes 10 dev + 12 consulting hours through May 2026) — that is NOT the repeatable SKU.
 - **August 2026 goal:** BrotherLink billing at least one chapter before Nick moves houses
 - Nick owns BD. Blake builds.
+- See `memory/BROTHERLINK.md` for full product, pipeline, and pitch context.
 
 ## PORTFOLIO PROJECTS
 

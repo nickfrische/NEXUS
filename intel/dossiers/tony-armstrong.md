@@ -15,7 +15,7 @@
 April 16, 2026
 
 ## Next Action
-Post-workshop follow-up within 48 hours. Reference the specific demo moments that resonated. Ask about how AI can support the IU Ventures Fellows Program and portfolio company founder needs.
+Post-workshop follow-up within 48 hours. Reference the PE engagement he mentioned starting Monday — mirror his energy on that. Ask about the IU Ventures Fellows Program and whether AI workflow training could be part of their curriculum.
 
 ---
 
@@ -111,4 +111,4 @@ Met through Jon Barada, who organized the IU Ventures AI Workshop. This is a war
 
 | Date | Type | Notes |
 |------|------|-------|
-| April 16, 2026 | AI Workshop (full day) | BPN-led AI 101 workshop at The Mill, Room 108. Nick and Phil Hess facilitating. |
+| April 16, 2026 | AI Workshop (full day) | BPN-led AI 101 workshop at The Mill, Room 108. Nick and Phil Hess facilitating. Key observations: Tony engaged most on the trades/PE roll-up angle — his framing was "private equity is buying up trades companies and needs AI to make them work, that's a better target audience for BPN." He confirmed BPN just started a PE engagement from a Monday call (the firm said "this is exactly what we need"). He was thoughtful about email volume (dozens/day) and specifically said deal analysis and LP judgment must stay human. He asked about how to show IU's portfolio companies what's possible. His feedback: pre-intake should assess client's operating environment (what systems they use, what they're allowed to install). He referenced "Coke vs. Pepsi" — IU may have an enterprise agreement with Microsoft that blocks Claude. He is from Madison, Indiana. He is excited about a second session.
